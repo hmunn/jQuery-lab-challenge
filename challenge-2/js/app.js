@@ -25,6 +25,7 @@ $(function() {
 // Hint: apply default styling to all buttons, and then apply only 'active' (btn-danger)
 // styling to the selected button.
 function setButtonStyle(selectedButton, buttons) {
+	$();
 
 }
 
